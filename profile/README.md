@@ -1,4 +1,4 @@
 # Humanitní IT
 
-* Web: http://www.humweb.cz
+* Web: https://www.humweb.cz
 * Discord: HO Humanita
